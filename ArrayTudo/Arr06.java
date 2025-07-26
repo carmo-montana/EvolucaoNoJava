@@ -23,5 +23,7 @@ public class Arr06 {
         } else {
             System.out.println("String "+searchItem+" is not found.");
         }
+
+        scan.close();
     }
 }
